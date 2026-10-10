@@ -4,6 +4,12 @@
 
 <p align="center">HTML · CSS · JavaScript · Vite</p>
 
+## Live demo
+
+[Open MainCrafts landing-page demo](https://kalyan870.github.io/maincrafts-landing/)
+
+This is a static internship exercise. Placeholder company statistics, contact details, and social links are sample content; its contact form is not connected to a service.
+
 ## Project overview
 
 This repository contains a static landing-page experience with its page markup, styling, JavaScript interactions, and Vite configuration. It is a frontend exercise; there is no application server or database in this repository.
