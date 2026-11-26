@@ -16,6 +16,11 @@ This repository contains a static landing-page experience with its page markup, 
 
 ## Architecture
 
+![maincrafts-landing architecture map](docs/images/maincrafts-landing-architecture.png)
+
+[Architecture notes](docs/architecture.md) · [Editable SVG](docs/images/maincrafts-landing-architecture.svg)
+
+
 ```mermaid
 flowchart LR
   B[Browser] --> H[index.html]
